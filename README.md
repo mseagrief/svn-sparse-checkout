@@ -13,7 +13,7 @@ Syntax
 
 .yaml configuration files are expected to exist in a folder called sparse and the root directory of a project (e.g. trunk/sparse or branches/feature-x/sparse).
 
-'''
+```
  description: Everything needed to compile and build
  base: build/
  
@@ -27,4 +27,4 @@ Syntax
          - build/libs/linux/*
      windows:
          - build/libs/windows/*
-'''
+```
