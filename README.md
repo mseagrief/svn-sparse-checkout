@@ -11,7 +11,7 @@ See http://seagrief.co.uk/2011/02/subversion-sparse-checkout-tool/ for a detaile
 Syntax
 ======
 
-.yaml configuration files are expected to exist in a folder called sparse and the root directory of a project (e.g. trunk/sparse or branches/feature-x/sparse).
+.yaml configuration files are expected to exist in a folder called sparse that exists at the root directory of a project (e.g. trunk/sparse or branches/feature-x/sparse).
 
 ```
  description: Everything needed to compile and build
